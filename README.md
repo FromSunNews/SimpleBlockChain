@@ -21,7 +21,7 @@ yarn dev
 ```
 
 ## How to use
-
+![image](https://github.com/FromSunNews/SimpleBlockChain/assets/111409554/e016f272-b2b3-4cac-9b25-e93b233e4c37)
 Thirdly, opening **Postman** and create new request by using **Add Request**. New request have:
 1. method: **POST**
 2. url: **http://localhost:8000/v1/blockchain/add_new_block**
