@@ -47,5 +47,7 @@ Thirdly, opening **Postman** and create new request by using **Add Request**. Ne
     }
 ]
 ```
+## Reference
+https://www.smashingmagazine.com/2020/02/cryptocurrency-blockchain-node-js/
 
 Good Luck!
